@@ -20,6 +20,7 @@ When you run this program there will be no console appering in your computer, th
           2.) If you want to change the time for sending the recorded mail you can too change that also.
           
           
+NOTE : In case of any help you can contact my twitter_id https://twitter.com/iampratham_U, i am happy to help you.
 # Warning
 
       If you use this program in any manner that is against law than you only are responsible for the same.
