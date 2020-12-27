@@ -1,5 +1,5 @@
 # Keylogger
-This is a keylogger program.
+This is a keylogger program made in python language.
 
 # Principle
 When you run this program there will be no console appering in your computer, the program will be running in background first it will read all the keystrokes from keyboard and than in every 1 minute i.e 60sec it will send the recorded keystrokes to the entered email.
